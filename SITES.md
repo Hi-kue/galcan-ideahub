@@ -86,6 +86,15 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 - [Ptkdev-Logger](https://github.com/ptkdev/ptkdev-logger): Logging package for NodeJs, the best alternative to the console.log() function (their words, not mine).
   - [Ptkdev-Logger Examples](https://github.com/ptkdev/ptkdev-logger/blob/master/examples/example-json.js)
 
+#### TypeScript-Centric NPM Packages
+- [TsLog](https://tslog.js.org/#/): Powerful, fast, and expressive logging for TypeScript and JavaScript. They say they are a good alternative to console.log() and console.error() functions.
+
+- [Zod](https://www.npmjs.com/package/zod): Typescript-first schema declaration and validation library with static type inference. Designed to be developer-friendly with the aim to eliminate duplicative type declarations.
+
+- [Ts-Essentials](https://www.npmjs.com/package/ts-essentials): A collection of essential TypeScript types for use in any project. The package is designed to be easy to use and extend to fit your needs.
+
+- [Ts-Mockito](https://www.npmjs.com/package/ts-mockito): Mocking library for TypeScript, inspired by Mockito and is designed to be easy to use and extend to fit your needs.
+  - [Github Repo](https://github.com/NagRock/ts-mockito): Github repository for the Ts-Mockito package.
 
 ### Go Centric Github Repo's
 - [Air](https://github.com/air-verse/air): Live reload for go applications, similar to nodemon for nodejs apps. 
@@ -120,6 +129,10 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake online REST API for testing and prototyping, used to generate fake data for testing and prototyping.
 
 - [Faker](https://fakerapi.it/en): API that generates fake data, used for testing and prototyping.
+
+
+### Self-Hosting Cloud Solutions
+- [OpenStack](https://www.openstack.org/): Open-source set of software components that provide common services for cloud infrastructure, often used for self-hosting cloud solutions.
 
 
 ### Other Interesting Sites
