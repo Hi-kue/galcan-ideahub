@@ -118,6 +118,13 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 - [Stack Sorted](https://stacksorted.com/): Curated collection of design elements for various sections that you may find in a typical website, used often for inspiration or direct use in your front-end centric creations / projects.
 
 
+#### Authentication and Authorization Sites
+- [Auth0](https://auth0.com/): Authentication and Authorization platform that provides a wide range of services for developers to use in their applications.
+
+- [SuperTokens](https://supertokens.com/): Open-source user authentication as an alternative to Auth0 or the other big players within the authentication and authorization space.
+
+- [Permit.io](https://www.permit.io/): Full-stack authorization as a service, designed to provide permissions for any application with Policy-as-Code, APIs, developer-friendly SDKs, and user facing UIs.
+
 ### Data Generators for API's
 
 - [Mockaroo](https://www.mockaroo.com/): Realistic data generator for testing and prototyping, used to generate large datasets of realistic data for testing and prototyping.
@@ -133,6 +140,30 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 ### Self-Hosting Cloud Solutions
 - [OpenStack](https://www.openstack.org/): Open-source set of software components that provide common services for cloud infrastructure, often used for self-hosting cloud solutions.
+
+### BaaS Solutions
+- [Firebase](https://firebase.google.com/): Platform developed by Google for creating mobile and web applications, often used for backend as a service (BaaS) solutions.
+
+- [Supabase](https://supabase.io/): Open-source Firebase alternative, often used for backend as a service (BaaS) solutions.
+
+- [Appwrite](https://appwrite.io/): Open-source, secure, scalable applications with authentication, databases, storage, and more. Often the best alternative to Firebase and Supabase, if you really don't want to use either of them.
+
+### IaaS Solutions
+
+### SaaS Solutions
+
+### Secret Management Sites
+- [Infisical](https://infisical.com/): All-in-one platform to security manage your applications configuration and secrets across teams and infrastructure. Never tried, but would be worth a shot for future SaaS projects.
+
+
+### AI Related Sites
+- [OpenRouter](https://openrouter.ai/): Unified interface for LLMs, a platform that allows you to train, deploy, and manage large language models with ease.
+
+- [LangChain](https://www.langchain.com/): Platform for building context-aware, reasoning applications with large language models, often used for building AI applications.
+
+- [Panora](https://panora.dev/): Platform for using a single API to add dozens of integrations to their product, Panora provides developers API endpoints with unified abstractions so your product can integrate with other tools efficiently.
+
+- [HellaSwag DataSet](https://paperswithcode.com/dataset/hellaswag): Challenge dataset for evaluating commonsense NLI that is considered to be specifically harder for state-of-the-art models but is trivial for humans. This is to test the limits of AI and their commonsense reasoning capabilities.
 
 
 ### Other Interesting Sites
