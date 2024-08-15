@@ -117,6 +117,12 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Stack Sorted](https://stacksorted.com/): Curated collection of design elements for various sections that you may find in a typical website, used often for inspiration or direct use in your front-end centric creations / projects.
 
+- [Landing Gallery](https://www.landing.gallery/): Home of the best landing page designs for inspiration and references, used often for inspiration when designing landing pages.
+
+- [Godly](https://godly.website/): Curated collection of design inspiration, they say they are the "best of the best" in terms of design inspiration, which is a bold claim to make, but they might be in that category.
+
+- [Landing Folio](https://www.landingfolio.com/): Curated collection of landing pages for inspiration and references, used often for inspiration when designing landing pages, this is a great resource as its not just inspiration but can be obtained through purchasing the templates of your choice.
+
 
 #### Authentication and Authorization Sites
 - [Auth0](https://auth0.com/): Authentication and Authorization platform that provides a wide range of services for developers to use in their applications.
