@@ -175,3 +175,5 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 ### Other Interesting Sites
 
 - [Free-Dev](https://free-for.dev/#/): Curated list of free services, SaaS, PaaS, IaaS, etc for developers. Amazing resource when you're looking for free services to use in your projects.
+
+- [Hono](https://hono.dev/): Similar to Express.js, Hono is a web application framework that is fast, lightweight, and easy to use and integrate with NodeJs specific applications.
