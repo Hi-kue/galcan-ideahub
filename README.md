@@ -1,3 +1,5 @@
+**NOTE:** I AM DEFINITELY GOING TO MAKE THIS INTO A MINIMALISTIC WEBSITE USING MACHA CSS!
+
 <br />
 <div align="left">
   <a href="/url">
