@@ -145,6 +145,15 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Faker](https://fakerapi.it/en): API that generates fake data, used for testing and prototyping.
 
+### Makers Sites [Video Making and Editing]
+- [Veed](https://www.veed.io/): Online video editing platform that provides a wide range of tools for editing videos online.
+
+- [Tella](https://www.tella.tv/): Screen recorder that edits videos for you, often used for creating demos, tutorials, and other video content with a mouse following feature.
+
+- [Kapwing](https://www.kapwing.com/): Online video editing platform that provides a wide range of tools for editing videos online.
+
+- [Screen Studio](https://www.screen.studio/): Professional screen recording and streaming software primarily for Mac. Designed to produce high-impact videos automatically and used by big companies like Stripe, Vercel, and others.
+
 
 ### Self-Hosting Cloud Solutions
 - [OpenStack](https://www.openstack.org/): Open-source set of software components that provide common services for cloud infrastructure, often used for self-hosting cloud solutions.
