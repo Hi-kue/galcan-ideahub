@@ -86,6 +86,8 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 - [Ptkdev-Logger](https://github.com/ptkdev/ptkdev-logger): Logging package for NodeJs, the best alternative to the console.log() function (their words, not mine).
   - [Ptkdev-Logger Examples](https://github.com/ptkdev/ptkdev-logger/blob/master/examples/example-json.js)
 
+- [Highlight.js](https://highlightjs.org/): Syntax highlighting for Javascript, among 192 other languages and 498 themes, with automatic language detection and zero dependencies.
+
 #### TypeScript-Centric NPM Packages
 - [TsLog](https://tslog.js.org/#/): Powerful, fast, and expressive logging for TypeScript and JavaScript. They say they are a good alternative to console.log() and console.error() functions.
 
