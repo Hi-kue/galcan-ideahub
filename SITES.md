@@ -20,6 +20,7 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Shadcn/UI](https://ui.shadcn.com/): Collection of UI components for building modern websites and applications. This UI kit is typically used with NextJs and bundled with TailwindCSS.
 
+
 ### Linux OS Dev Sites
 - [Wayland](https://wayland.freedesktop.org/): Replacement for the X11 window system protocol and architecture for the aim to be easier to develop, extend, and maintain.
 
@@ -28,6 +29,7 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 - [Linux From Scratch](https://www.linuxfromscratch.org/):  Project the provides step-by-step instructions for building your own custom Linux system, entirely from source code.
 
 [Nir Lichtman - Making Simple Graphical Linux Distro from Stratch](https://www.youtube.com/watch?v=guSDz5Iwgw0)
+
 
 ### Icon Sites (Best Overall)
 - [Lucid Icons](https://lucide.dev/icons/): Collection of icons that are free to use and open-source, definitely a good site to check out if you need icons for your projects.
@@ -38,10 +40,12 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Line Icons](https://lineicons.com/): 8400+ Handcrafted SVG Icons for designers and developers alike, for modern user interfaces of web, mobile, and desktop app design. Another good site to check out if you need icons for your projects.
 
+
 ### Documentation Sites
 - [Javascript.Info](https://javascript.info/): Modern javascript tutorial site that covers a wide range of topics from the basics of using javascript to more advanced topics like asynchronous programming and promises.
 
 - [CSS-Tricks](https://css-tricks.com/): Site that provides tips, tricks, and techniques related to CSS and front-end development in general.
+
 
 ### Testing Frameworks, Libraries, and Tools
 - [Jest](https://jestjs.io/): A "delightful JavaScript Testing Framework with a focus on simplicity." Jest is just a 
@@ -54,6 +58,7 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 - [Jasper | Notes](https://jsprcrz.github.io/Notes/): Jasper's notes on various topics he's taken throughout his time in university, usually around computer science, software engineering, and math.
 
 - [2tor.ca](https://2tor.ca/): Site made by a couple of students that provide notes and individualized support to students in University. The site is a great resource for students looking for notes on various topics.
+
 
 ### Coding Platforms for Learning
 
@@ -76,17 +81,13 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Koyeb](https://www.koyeb.com/): Developer-friendly serverless platform designed for AI infrastructure and applications.
 
-### AI Tools
-- [Phind](https://www.phind.com/search?home=true): AI-powered search engine that provides a unique way to search for images and videos on the internet.
-
-- [Mistral](https://mistral.ai/): AI-powered open-source tool for developers to build, learn, and deploy without having a paywall (like other AI tools and companies).
-
 
 ### NPM Packages
-- [Ptkdev-Logger](https://github.com/ptkdev/ptkdev-logger): Logging package for NodeJs, the best alternative to the console.log() function (their words, not mine).
+- [Ptkdev-Logger](https://github.com/ptkdev/ptkdev-logger): Logging package for NodeJs, the best alternative to the `console.log()` function (their words, not mine).
   - [Ptkdev-Logger Examples](https://github.com/ptkdev/ptkdev-logger/blob/master/examples/example-json.js)
 
 - [Highlight.js](https://highlightjs.org/): Syntax highlighting for Javascript, among 192 other languages and 498 themes, with automatic language detection and zero dependencies.
+
 
 #### TypeScript-Centric NPM Packages
 - [TsLog](https://tslog.js.org/#/): Powerful, fast, and expressive logging for TypeScript and JavaScript. They say they are a good alternative to console.log() and console.error() functions.
@@ -98,6 +99,7 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 - [Ts-Mockito](https://www.npmjs.com/package/ts-mockito): Mocking library for TypeScript, inspired by Mockito and is designed to be easy to use and extend to fit your needs.
   - [Github Repo](https://github.com/NagRock/ts-mockito): Github repository for the Ts-Mockito package.
 
+
 ### Go Centric Github Repo's
 - [Air](https://github.com/air-verse/air): Live reload for go applications, similar to nodemon for nodejs apps. 
 
@@ -107,8 +109,10 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Golang Bot](https://golangbot.com/learn-golang-series/): Tutorial series for learning Go from the ground up, its very beginner-friendly but doesn't cover everything that you may need to know about Go.
 
+
 ### Interesting Blog Sites 
 - [Yehonathan Sharvit](https://blog.klipse.tech/page2/): Blog by Yehonathan Sharvit, a software engineer who writes about various topics in software engineering and programming, great for picking up a few tips and tricks, hes also the author of "Data Oriented Programming".
+
 
 ### Design Reference Sites
 - [Minimal Gallery](https://minimal.gallery/): Curated collection of minimal design websites used often for inspiration when designing websites.
@@ -133,6 +137,7 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Permit.io](https://www.permit.io/): Full-stack authorization as a service, designed to provide permissions for any application with Policy-as-Code, APIs, developer-friendly SDKs, and user facing UIs.
 
+
 ### Data Generators for API's
 
 - [Mockaroo](https://www.mockaroo.com/): Realistic data generator for testing and prototyping, used to generate large datasets of realistic data for testing and prototyping.
@@ -144,6 +149,7 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake online REST API for testing and prototyping, used to generate fake data for testing and prototyping.
 
 - [Faker](https://fakerapi.it/en): API that generates fake data, used for testing and prototyping.
+
 
 ### Makers Sites [Video Making and Editing]
 - [Veed](https://www.veed.io/): Online video editing platform that provides a wide range of tools for editing videos online.
@@ -165,6 +171,17 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Appwrite](https://appwrite.io/): Open-source, secure, scalable applications with authentication, databases, storage, and more. Often the best alternative to Firebase and Supabase, if you really don't want to use either of them.
 
+
+### Backend Frameworks and Libraries
+- [Fastify](https://www.fastify.io/): Fast and low overhead web framework for NodeJs, often used for building fast and efficient web applications.
+
+- [NestJS](https://nestjs.com/): Progressive Node.js framework for building efficient, reliable, and scalable server-side applications, often used for building enterprise-grade applications.
+
+- [NodeJS](https://nodejs.org/): JavaScript runtime built on Chrome's V8 JavaScript engine, often used for building server-side applications.
+
+- [Hono](https://hono.dev/): Open-source, fast, similar to ExpressJs, and an easy to use web framework with NodeJs, often used for building fast and efficient web applications, such as MVPs.
+
+
 ### IaaS Solutions
 
 ### SaaS Solutions
@@ -183,8 +200,18 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 - [HellaSwag DataSet](https://paperswithcode.com/dataset/hellaswag): Challenge dataset for evaluating commonsense NLI that is considered to be specifically harder for state-of-the-art models but is trivial for humans. This is to test the limits of AI and their commonsense reasoning capabilities.
 
 
+### AI LLM Sites
+- [Phind](https://www.phind.com/search?home=true): AI-powered search engine that provides a unique way to search for images and videos on the internet.
+
+- [Mistral](https://mistral.ai/): AI-powered open-source tool for developers to build, learn, and deploy without having a paywall (like other AI tools and companies).
+
+
 ### Other Interesting Sites
 
 - [Free-Dev](https://free-for.dev/#/): Curated list of free services, SaaS, PaaS, IaaS, etc for developers. Amazing resource when you're looking for free services to use in your projects.
 
-- [Hono](https://hono.dev/): Similar to Express.js, Hono is a web application framework that is fast, lightweight, and easy to use and integrate with NodeJs specific applications.
+[Leogopal - Free Dev Resources](https://github.com/leogopal/free-dev-resources): Curated list of open-source resources or services offering free tires, these can be SaaS, PaaS, IaaS, etc. Great resource for developers looking for any free resources.
+
+- [FreeStuff.dev](https://freestuff.dev/): Curated free tools and services for developers, often useful for developing the next MVP or prototyping the next big idea you may have.
+
+- [DevHints](https://devhints.io/): Collection of cheatsheets for developers, often used for quick reference when coding.
