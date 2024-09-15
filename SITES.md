@@ -71,6 +71,16 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Coding Challenges](https://codingchallenges.fyi/challenges/intro/): Weekly coding challenges aimed at helping software engineers level up their skills through deliberate practice and patience in learning new concepts for any language.
 
+### Learning Algorithms and Data Structures
+- [Stony Brook Algorithm Repository](https://www3.cs.stonybrook.edu/~algorith/): Repository of algorithms and data structures, often used for learning and understanding how algorithms and data structures work.
+  - [Stony Brook Video Lectures](https://www3.cs.stonybrook.edu/~skiena/373/videos/): Video lectures on certain algorithms and data structures, often used for learning and understanding how algorithms and data structures work.
+
+- [AlgoMap](https://algomap.io/): Similar to NeetCode, AlgoMap is a platform that provides challenges and solutions to common algorithms and data structures.
+
+- [NeetCode](https://neetcode.com/): Platform that provides challenges and solutions to common algorithms and data structures, often used for learning and understanding how algorithms and data structures work.
+
+- [AlgoExpert](https://www.algoexpert.io/): Platform that provides challenges and solutions to common algorithms and data structures, often used for learning and understanding how algorithms and data structures work.
+
 
 - [Visualgo](https://visualgo.net/en): Visualizing data structures and algorithms through animations, a great resource for learning how data structures and algorithms work.
 
@@ -210,7 +220,7 @@ The way it goes is that I will find a site, bookmark for a duration and send it 
 
 - [Free-Dev](https://free-for.dev/#/): Curated list of free services, SaaS, PaaS, IaaS, etc for developers. Amazing resource when you're looking for free services to use in your projects.
 
-[Leogopal - Free Dev Resources](https://github.com/leogopal/free-dev-resources): Curated list of open-source resources or services offering free tires, these can be SaaS, PaaS, IaaS, etc. Great resource for developers looking for any free resources.
+- [Leogopal - Free Dev Resources](https://github.com/leogopal/free-dev-resources): Curated list of open-source resources or services offering free tires, these can be SaaS, PaaS, IaaS, etc. Great resource for developers looking for any free resources.
 
 - [FreeStuff.dev](https://freestuff.dev/): Curated free tools and services for developers, often useful for developing the next MVP or prototyping the next big idea you may have.
 
